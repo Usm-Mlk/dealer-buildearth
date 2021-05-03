@@ -1,0 +1,29 @@
+@import '~antd/dist/antd.css';
+
+.admin-main {
+  text-align: left;
+}
+
+.admin-logo {
+  height: 40vmin;
+}
+.admin-nav{
+  background-color: #aa1d45 !important;
+}
+.admin-slider{
+  background-color: #F0A84D !important;
+}
+.admin-header {
+  background-color: #aa1d45 !important;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.admin-link {
+  color: #09d3ac;
+}

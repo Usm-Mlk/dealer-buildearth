@@ -1,0 +1,16 @@
+.PE_header__container {
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+    border-bottom: 1px solid;
+}
+.PE_header__container--content {
+    width: 50%;
+    padding: 100px;
+    background-color: #fff;
+}
+
+.PE_header__container--content h1 {
+    font-size: 65px;
+    font-weight: bold;
+}
